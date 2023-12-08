@@ -1,5 +1,7 @@
 # Healthify
 
+Healthify is a MERN project allowing users to book medical tests for checkups.
+
 ## Live Link
 
 📝 **[Explore Healthify](https://healthify-32a90.web.app/)**
