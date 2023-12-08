@@ -7,7 +7,7 @@
 
 ## Features
 
-## Dashboard
+### Dashboard
 
 - **User Management**
   - Admins can efficiently manage all users within the platform.
@@ -24,3 +24,12 @@
 - 🌓 **Dark Mode and Light Mode**
   - Personalize your test booking experience with both dark and light modes.
   - Optimal viewing in any lighting condition.
+
+## Technologies Used
+
+- Mongoose
+- JWT
+- Express
+- React.js
+- NextUI
+- Firebase
